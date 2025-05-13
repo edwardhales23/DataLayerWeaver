@@ -1,0 +1,22 @@
+
+---
+
+**LogTideTracker**  
+**Description:**  
+Detects log activity "tides" — broad, slow-moving patterns of warnings, errors, or anomalies in high-volume systems.
+
+```markdown
+# LogTideTracker - Macro-Pattern Log Analyzer
+
+LogTideTracker highlights long-term frequency waves and shifts in log behavior for large-scale applications.
+
+## Features
+- Frequency tide analysis  
+- Heatmap visual summaries  
+- CLI-based inspection
+
+## Usage
+```bash
+git clone https://github.com/your-username/LogTideTracker.git
+cd LogTideTracker
+python analyze.py
